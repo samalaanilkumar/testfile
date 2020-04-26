@@ -1,0 +1,13 @@
+open stack
+bakula
+nagieos
+zabbix
+catchpoint
+splunk
+F5
+rundeck
+dynatrace
+prometheus
+grafana
+zeramena(ticketing tool)
+jira
